@@ -6,6 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface ProductRepository extends JpaRepository<Product, Long> {
-    // Hier könnten wir später eigene Suchmethoden hinzufügen,
-    // z.B. List<Product> findByName(String name);
+
 }
