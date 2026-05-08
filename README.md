@@ -2,7 +2,7 @@
 
 A modern Java backend for warehouse management. Built to demonstrate clean **Layered Architecture** principles and automated testing best practices.
 
-![CI Status](https://github.com/junesdream/inventory-management/actions/workflows/main.yml/badge.svg)
+![CI Status](https://github.com/junesdream/inventory-management/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot_3-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
